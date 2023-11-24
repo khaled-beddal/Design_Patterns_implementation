@@ -1,0 +1,5 @@
+
+- in this example of code , we not use like static final values, and static method, and switch in factory class like ex1 , exo2
+- and not use set values using set method in sub-class (car values not like enumeration) like ex1, ex2 
+- and username, password , in each sub-class , without using parent class ,
+- just other implementation ctt, but concept is the same make a factory of objects  مصنع , a method that return a parent type of objects.
