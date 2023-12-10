@@ -1,4 +1,4 @@
-package Decorator;
+    package Decorator;
 
 public class SandwichDecorator implements Sandwich{
     private Sandwich sandwich ; 
